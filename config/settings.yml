@@ -1,0 +1,4 @@
+discourse_importhelper:
+  importhelper_disable_activationmails:
+    default: false
+
